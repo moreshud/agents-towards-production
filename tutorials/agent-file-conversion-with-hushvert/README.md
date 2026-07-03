@@ -29,7 +29,7 @@ Everything in this tutorial hangs off one routing rule: never pay, in money or i
 ## Requirements
 
 - Python 3.10+ for the notebook
-- A hushvert API key for the server-lane sections: create an account at [hushvert.com/account](https://europe-west1-atp-views-tracker.cloudfunctions.net/working-analytics?notebook=tutorials--agent-file-conversion-with-hushvert--readme&click=hushvert-account&target=https%3A%2F%2Fhushvert.com%2Faccount%3Futm_source%3Dagents-towards-production%26utm_medium%3Dgithub%26utm_campaign%3Dtutorial&text=hushvert%20account), confirm your email, and create a key in the developer section. The free monthly allowance covers this whole tutorial without payment.
+- A hushvert API key for the server-lane sections: create a free account and a key at [hushvert.com/developers/keys](https://europe-west1-atp-views-tracker.cloudfunctions.net/working-analytics?notebook=tutorials--agent-file-conversion-with-hushvert--readme&click=hushvert-keys&target=https%3A%2F%2Fhushvert.com%2Fdevelopers%2Fkeys%3Futm_source%3Dagents-towards-production%26utm_medium%3Dgithub%26utm_campaign%3Dtutorial&text=hushvert%20developer%20keys) (one-time email code, no password; keys need a confirmed email). The free monthly allowance covers this whole tutorial without payment.
 - Node.js 18+ only if you connect the MCP server to a local agent
 
 ## What You'll Build
