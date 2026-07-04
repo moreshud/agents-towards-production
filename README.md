@@ -277,12 +277,12 @@ Click a logo to visit their website.
 </tr>
 </table>
 
-[![Subscribe to DiamantAI Newsletter](assets/repos_images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+[![Subscribe to DiamantAI Newsletter](assets/repos_images/subscribe-button.svg)](https://newsletter.diamant-ai.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
 _Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!_  
 **_Plus, subscribers get exclusive early access and special 33% discounts to my book and upcoming courses!_**
 
-[![DiamantAI's newsletter](assets/repos_images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+[![DiamantAI's newsletter](assets/repos_images/substack_image.png)](https://newsletter.diamant-ai.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
 </div>
 
